@@ -1,0 +1,24 @@
+{
+  "name": "-asdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.6.0",
+    "aoi.js": "^4.5.0",
+    "canvacord": "^5.2.3",
+    "canvas-senpai": "^2.0.3",
+    "discord-buttons": "^4.0.0",
+    "ffmpeg-static": "^4.4.0",
+    "weky": "^2.0.7",
+    "ytdl-core": "^4.9.0"
+  }
+}
